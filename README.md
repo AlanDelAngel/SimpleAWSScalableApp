@@ -1,0 +1,2 @@
+# SimpleAWSScalableApp
+cloud formation project
